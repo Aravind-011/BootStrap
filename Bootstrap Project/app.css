@@ -1,0 +1,32 @@
+body{
+    background-color: #f5d9d5;
+}
+#mainNavbar{
+    font-size: 15px;
+}
+
+.navbar-brand{
+    color:#ea1c2c;
+    font-size: 30px;
+}
+#mainNavbar .nav-link {
+ font-size: 30px;
+ color: black;
+}
+
+#mainNavbar .nav-link:hover{
+    color: #ea1c2c;
+    
+}
+
+.text-center{
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    color: #ea1c2c;
+}
+.lead{
+    color: black;
+}
